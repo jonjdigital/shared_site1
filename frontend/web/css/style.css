@@ -1,0 +1,107 @@
+@media (min-width: 768px){
+    .navbar-nav{
+        float: left;
+        color: #D6D6D6;
+    }
+    .navbar-inverse{
+        border-color: #222;
+    }
+}
+
+.sloganHeader{
+    width:100%;
+    color: #D6D6D6;
+    text-align: center;
+    background-color: #222;
+    border-color: #080808;
+    margin: 0;
+}
+
+h1,h2,h3,h4{
+    font-family: 'Otomanopee One', sans-serif; !important
+}
+
+#siteNav{
+    float:right; !important
+}
+
+.breadcrumb{
+    width:100%;
+    color: #D6D6D6;
+    text-align: center;
+    background-color: #222;
+    border-color: #080808;
+    margin: 20px 0 10px 0;
+    /*margin: 0;*/
+}
+
+.breadcrumb>li>a:link,.breadcrumb>li>a:visited{
+    color: #D6D6D6;
+    text-decoration: none;
+}
+
+.breadcrumb>li>a:hover{
+    color: white;
+}
+
+.breadcrumbHeader{
+    margin: 0 0 10px 0;
+}
+
+.navigationHeader{
+    margin: 5px 0 0 0;
+}
+
+#homeLink:link,#homeLink:visited{
+    color: #D6D6D6;
+    text-decoration: none;
+}
+
+#homeLink:hover{
+    color: white;
+}
+
+#socialContact{
+    margin: 0 20px 0 20px;
+}
+
+.container>.site-contact{
+    margin: 0 -10% 0 -10% !important;
+}
+
+.ad-space {
+    background-color: red;
+}
+
+.site-signup>div>div>p{
+text-align: center;
+}
+
+#profile_avatar{
+    /*set the image size as placeholder*/
+    min-width:250px;
+    max-width: 250px;
+    max-height: 250px;
+    min-height:250px;
+
+    padding: 10px;
+    border: black 1px solid;
+}
+
+#listed-role{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20PX;
+}
+
+.settings{
+    padding: 0 20% 0 20%;
+}
+
+.settings-title{
+    text-align: center;
+}
+
+.social-profile{
+    border: #d9d9d9 7px ridge;
+    padding: 50px 0 50px 0;
+}

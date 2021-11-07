@@ -1,0 +1,7 @@
+codeception-local.php
+main-local.php
+params-local.php
+test-local.php
+
+#ignore the boostrap file which contains custom aliases. If changed, need to do it manually
+bootstrap.php
